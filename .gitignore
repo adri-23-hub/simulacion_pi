@@ -12,7 +12,6 @@ dist-ssr/
 
 # Archivos de compilación de Rust/WebAssembly
 rust-pi/target/
-rust-pi/pkg/
 
 # Archivos de sistema (Mac)
 .DS_Store
