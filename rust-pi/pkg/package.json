@@ -1,0 +1,15 @@
+{
+  "name": "rust-pi",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "rust_pi_bg.wasm",
+    "rust_pi.js",
+    "rust_pi.d.ts"
+  ],
+  "main": "rust_pi.js",
+  "types": "rust_pi.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
